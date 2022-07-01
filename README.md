@@ -6,4 +6,4 @@ Vlc Media Player on macos does not have a keyboard shortcut to disable subtitles
 
 # How to use?
 
-I'm using ![Raycast](https://raycast.com) to create a Hotkey to run script.
+I'm using [Raycast](https://raycast.com) to create a Hotkey to run script.
